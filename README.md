@@ -1,3 +1,6 @@
+**Fix "Cannot find 'TARGET_OS_SIMULATOR' in scope" error in Xcode 16.3.**
+---
+
 <img src="./Images/tlphotologo.png">
 
 [![Version](https://img.shields.io/cocoapods/v/TLPhotoPicker.svg?style=flat)](http://cocoapods.org/pods/TLPhotoPicker)
